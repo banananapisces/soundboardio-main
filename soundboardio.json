@@ -30,19 +30,19 @@
   ],
   "tiles": [
     {
-      "name": "Bloody Agent!",
+      "name": "You Bloody Agent!",
       "filename": "Bloody Agent.mp3"
     },
     {
-      "name": "Hey Yall",
+      "name": "Hey Y'all...",
       "filename": "Hey Yall.mp3"
     },
     {
-      "name": "Unacceptable",
+      "name": "Unacceptable!!!",
       "filename": "Lemongrab - Unacceptable!!.mp3"
     },
     {
-      "name": "Can do!",
+      "name": "Caaaaan do!",
       "filename": "Meeseeks can do !.mp3"
     },
     {
@@ -50,11 +50,11 @@
       "filename": "Nollie.mp3"
     },
     {
-      "name": "Okay",
+      "name": "Okayyyy",
       "filename": "Okay.mp3"
     },
     {
-      "name": "Rawr",
+      "name": "RAWR",
       "filename": "Rawr.mp3"
     },
     {
@@ -74,6 +74,34 @@
     {
       "name": "Wow",
       "filename": "Wow Wow Wow Avengers Endgame Pitch Meeting.mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+        {
+      "name": "Temporal Mechanics",
+      "filename": "Janeway Temporal.mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+    {
+      "name": "Hold On",
+      "filename": "Jurassic Park - Hold Onto Your Butts.mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+        {
+      "name": "What Happened, Happened",
+      "filename": "Morpheus  What happened, happened ..mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+            {
+      "name": "One speed only",
+      "filename": "One speed only.mp3",
       "tags": [
         "Country"
       ]

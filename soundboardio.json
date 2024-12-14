@@ -1,0 +1,97 @@
+{
+  "name": "Main Soundboard",
+  "shortName": "main",
+  "description": "The main Soundboard",
+  "color": "#943100",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "AquaSoup",
+    "url": "https://aquasoup.com"
+  },
+  "lang": "en",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "583x330",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "purpose": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Bloody Agent!",
+      "filename": "Bloody Agent.mp3"
+    },
+    {
+      "name": "Hey Yall",
+      "filename": "Hey Yall.mp3"
+    },
+    {
+      "name": "Unacceptable",
+      "filename": "Lemongrab - Unacceptable!!.mp3"
+    },
+    {
+      "name": "Can do!",
+      "filename": "Meeseeks can do !.mp3"
+    },
+    {
+      "name": "Nollie!",
+      "filename": "Nollie.mp3"
+    },
+    {
+      "name": "Okay",
+      "filename": "Okay.mp3"
+    },
+    {
+      "name": "Rawr",
+      "filename": "Rawr.mp3"
+    },
+    {
+      "name": "Super Easy",
+      "filename": "Super Easy - Pitch Meetings  Pitch Meeting (100th Episode Bonus).mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+    {
+      "name": "WTF",
+      "filename": "what the fuck parrot.mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+    {
+      "name": "Wow",
+      "filename": "Wow Wow Wow Avengers Endgame Pitch Meeting.mp3",
+      "tags": [
+        "Country"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Pulp Fiction",
+      "source": "IMDB",
+      "url": "https://www.imdb.com/title/tt0110912/"
+    }
+  ],
+  "lyrics": [
+    "You ever read the Bible, Brett?",
+    "There's a passage I got memorized, seems appropriate for this situation: Ezekiel 25:17.",
+    "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men.",
+    "Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children.",
+    "And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers.",
+    "And you will know my name is the Lord when I lay my vengeance upon you."
+  ]
+}
